@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>中央書局</heading>
+<book>
+<title>日本之影</title>
+<author>安迪</author>
+<publish>東力出版社</publish>
+<price>$300</price>
+</book>
+<book>
+<title>東京之影</title>
+<author>安迪</author>
+<publish>東力出版社</publish>
+<price>$350</price>
+</book>
+</books>
